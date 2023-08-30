@@ -1,0 +1,9 @@
+B:B001:Lab:24:For practical use only:Available
+DK:DK4:Lecture:250:For lecture use only:Unavailable
+B:B002:Lab:24:For practical use only:Available
+K:K302:Tutorial:26:For tutorial use only:Available
+DK:DK SG2:Lecture:289:For lecture use only:Available
+DK:DK X:Lecture:240:For lecture use only:Unavailable
+DK:DK ABA:Lecture:266:For lecture use only:Available
+CC:CC 203:Lab:24:For practical use only:Unavailable
+DK:DK ABB:Lecture:200:For lecture use only:Available
